@@ -1,6 +1,9 @@
 ![Header](./github-header-image.png)
 <h3 align="center">A passionate backend developer from India</h3>
-<img src="./github.gif" alt="Gif" align="center">
+<div>
+<img src="./github.gif" alt="Gif" >
+</div>
+
 - 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **Backend and Full-Stack Projects**
