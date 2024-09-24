@@ -1,4 +1,4 @@
-![Header](./github-header-image-name.png)
+![Header](./github-header-image.png)
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swetabh333&label=Profile%20views&color=0e75b6&style=flat" alt="swetabh333" /> </p>
