@@ -1,8 +1,8 @@
 ![Header](./github-header-image.png)
 <h3 align="center">A passionate backend developer from India</h3>
-<div>
+<p align="center">
 <img src="./github.gif" alt="Gif" >
-</div>
+</p>
 
 - 🌱 I’m currently learning **Go**
 
