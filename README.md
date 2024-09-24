@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Backend and Full-Stack Projects**
 
-- 👨‍💻 All of my projects are available at [https://swetabh.vercel.app/](https://swetabh.vercel.app/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://swetabh.vercel.app/)
 
 - 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **swetabhshreyam333@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ipNeu6mYq6_rY_Ewa_ZIRQ4txUFt_YTs/view?usp=drive_link](https://drive.google.com/file/d/1ipNeu6mYq6_rY_Ewa_ZIRQ4txUFt_YTs/view?usp=drive_link)
+- 📄 Know about my experiences through my [resume](https://drive.google.com/file/d/1ipNeu6mYq6_rY_Ewa_ZIRQ4txUFt_YTs/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
