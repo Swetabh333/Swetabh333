@@ -1,9 +1,7 @@
 ![Header](./github-header-image.png)
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swetabh333&label=Profile%20views&color=0e75b6&style=flat" alt="swetabh333" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swetabh333" alt="swetabh333" /></a> </p>
 
 - 🌱 I’m currently learning **Go**
 
@@ -31,3 +29,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swetabh333&show_icons=true&locale=en&layout=compact" alt="swetabh333" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swetabh333&show_icons=true&locale=en" alt="swetabh333" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swetabh333&label=Profile%20views&color=0e75b6&style=flat" alt="swetabh333" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swetabh333" alt="swetabh333" /></a> </p>
