@@ -35,6 +35,6 @@
 <div>
 ![Swetabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swetabh333&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetabh333&layout=donut-vertical&langs_count=10)](https://github.com/Swetabh333/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetabh333&layout=donut-vertical&langs_count=10&theme=tokyonight)](https://github.com/Swetabh333/github-readme-stats)
 </div>
 </div>
