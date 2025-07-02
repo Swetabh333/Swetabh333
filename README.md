@@ -34,11 +34,12 @@
 <div style="display:flex">
 <table>
   <tr>
-    <td>
+    <td style="border: none; padding-right: 30px;">
       <img src="https://github-readme-stats.vercel.app/api?username=Swetabh333&show_icons=true&theme=tokyonight" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swetabh333&layout=donut-vertical&langs_count=10" />
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swetabh333&layout=donut-vertical&langs_count=10&theme=tokyonight" />
     </td>
   </tr>
 </table>
+
