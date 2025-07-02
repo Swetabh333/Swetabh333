@@ -36,9 +36,5 @@
 
 <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swetabh333&" alt="swetabh333" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetabh333&layout=donut-vertical)](https://github.com/Swetabh333/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swetabh333&label=Profile%20views&color=0e75b6&style=flat" alt="swetabh333" /> </p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetabh333&layout=donut-vertical)](https://github.com/Swetabh333/github-readme-stats)
- 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swetabh333" alt="swetabh333" /></a> </p>
