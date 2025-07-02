@@ -36,5 +36,5 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetabh333&layout=donut-vertical&langs_count=9)](https://github.com/Swetabh333/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetabh333&layout=donut-vertical&langs_count=10)](https://github.com/Swetabh333/github-readme-stats)
 
